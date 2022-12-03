@@ -136,7 +136,7 @@ section p {
 }
 .banner-area a.banner-btn {
 	padding: 15px 35px;
-	background: crimson;
+	background:  linear-gradient(to right, orange,crimson);
 	border-radius: 50px;
 	text-transform: uppercase;
 }
